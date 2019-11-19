@@ -9,4 +9,9 @@ Add this to /etc/hosts:
 192.168.50.50 stats.local.development
 ```
 
+Then :
+```
+vagrant up && bash launch_honeypot.sh
+```
+
 (Inspired by Grafikart : https://www.grafikart.fr/tutoriels/elastic-stack-elk-980)
